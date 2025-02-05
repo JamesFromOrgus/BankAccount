@@ -1,0 +1,14 @@
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.AssemblyInfoInputs.cache
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.AssemblyInfo.cs
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/james/RiderProjects/BankAccount/BankAccount/bin/Debug/net9.0/BankAccount
+/Users/james/RiderProjects/BankAccount/BankAccount/bin/Debug/net9.0/BankAccount.deps.json
+/Users/james/RiderProjects/BankAccount/BankAccount/bin/Debug/net9.0/BankAccount.runtimeconfig.json
+/Users/james/RiderProjects/BankAccount/BankAccount/bin/Debug/net9.0/BankAccount.dll
+/Users/james/RiderProjects/BankAccount/BankAccount/bin/Debug/net9.0/BankAccount.pdb
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.dll
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/refint/BankAccount.dll
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.pdb
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/BankAccount.genruntimeconfig.cache
+/Users/james/RiderProjects/BankAccount/BankAccount/obj/Debug/net9.0/ref/BankAccount.dll
